@@ -1,4 +1,4 @@
-Carpeta frontend de Vue choca con Github, se adjunta como rar igualmente por esta razon
+Carpeta frontend de Vue choca con Github: https://we.tl/t-U0nvTGvteD
 
 Comandos para correr el proyecto:
 
